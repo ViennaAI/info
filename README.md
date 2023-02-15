@@ -4,7 +4,7 @@ Artificial Intelligence (AI) systems are rapidly becoming more powerful and deep
 
 Our goal is to provide a network for professionals working on AI alignment in Vienna and Austria, and to strengthen the global visibility of Vienna among global AI stakeholders.
 
-Current members:
+Current members & interested parties:
  * [Matthias Samwald](https://samwald.info/), Associate Professor, Institute of Artificial Intelligence, Medical University of Vienna
  * (Further members added after round-call in group)
 
