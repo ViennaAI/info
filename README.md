@@ -8,7 +8,9 @@ Our goal is to provide a network for professionals working on AI alignment in Vi
  * [Matthias Samwald](https://samwald.info/), Associate Professor, Institute of Artificial Intelligence, Medical University of Vienna
  * [Jason Hoelscher-Obermaier](https://github.com/jas-ho), independent AI researcher
  * [Michael Pieler](https://github.com/MicPie), DL researcher
- * (Further members added after round-call in group)
+ * [Sebastian De Ro](https://www.linkedin.com/in/sebastiandero/), Co-founder & CTO @ Magic 
+ * [Attila Kaplan](https://www.linkedin.com/in/attila-kaplan/)
+ * [Mihai Truta](https://www.linkedin.com/in/mihai-truta-ab28a286/)
 
 ## Contact
  * Contact for inquiries: matthias.samwald (at) meduniwien.ac.at
