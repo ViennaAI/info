@@ -9,6 +9,7 @@ Our goal is to provide a network for professionals working on AI alignment in Vi
  * [Jason Hoelscher-Obermaier](https://github.com/jas-ho), independent AI researcher
  * [Michael Pieler](https://github.com/MicPie), DL researcher
  * [Sebastian De Ro](https://www.linkedin.com/in/sebastiandero/), Co-founder & CTO @ Magic 
+ * [Egor Zverzev](https://www.linkedin.com/in/egor-zverev-ai/), ISTA / Institute of Science and Technology Austria
  * [Attila Kaplan](https://www.linkedin.com/in/attila-kaplan/)
  * [Mihai Truta](https://www.linkedin.com/in/mihai-truta-ab28a286/)
 
