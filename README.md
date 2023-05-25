@@ -15,9 +15,11 @@ Our goal is to provide a network for professionals working on AI alignment in Vi
 
 ## Contact
  * Contact for inquiries: matthias.samwald (at) meduniwien.ac.at
- * We use the `#λ-vienna` channel on the AI alignment slack for discussion and coordination. You're welcome to join using [this link](https://join.slack.com/share/enQtNDgyMjU5Nzg4ODA1NS05OTBlZTNiMDA0NDIyZThkNWE1MWI2Y2ExNjA0NzY3ODU5ZDMzM2UxZjhjOGFkNWNlNjAzZWEwYmUxNzk2MDcy)!
+ * We use the `#λ-vienna` channel on the AI alignment slack for discussion and coordination. To join the discussion, please:
+    1. join the [AI alignment slack](https://bit.ly/3HiXUrv)
+    2. inside the AI alignment slack, find and join the `#λ-vienna` channel
 
 ## European network
 To connect with the wider European AI alignment community
- * join the `#λ-europe` channel on the AI alignment slack using [this link](https://join.slack.com/share/enQtNDgzOTYwMTM3MDQ1Mi0zYTgyNzhmMTI0ODkwZGU5NjQ3ODJhYzMxOTNlY2E0NmNlYzRhODc4YWQ0M2NhMzY5NzRjNWEzMWQ2NjMzOWNm)
- * check https://enais.co/ (under construction)
+ * join the `#λ-europe` channel on the [AI alignment slack](https://bit.ly/3HiXUrv)
+ * check the homepage of the [European Network for AI Safety](https://enais.co/)
