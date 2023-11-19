@@ -6,7 +6,7 @@ Our goal is to provide a network for professionals working on AI alignment in Vi
 
 ## Current members & interested parties
  * [Matthias Samwald](https://samwald.info/), Associate Professor, Institute of Artificial Intelligence, Medical University of Vienna
- * [Jason Hoelscher-Obermaier](https://github.com/jas-ho), independent AI researcher
+ * [Jason Hoelscher-Obermaier](https://github.com/jas-ho), Research Lead [Apart Research](https://apartresearch.com/)
  * [Michael Pieler](https://github.com/MicPie), DL researcher
  * [Sebastian De Ro](https://www.linkedin.com/in/sebastiandero/), Co-founder & CTO @ Magic 
  * [Egor Zverzev](https://www.linkedin.com/in/egor-zverev-ai/), ISTA / Institute of Science and Technology Austria
